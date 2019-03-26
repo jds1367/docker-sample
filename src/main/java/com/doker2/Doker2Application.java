@@ -16,7 +16,7 @@ public class Doker2Application {
 
     @GetMapping("/")
     public String hello() {
-        return "Hello Spring Boot Master";
+        return "Hello Spring Boot Develop";
     }
 
 }
